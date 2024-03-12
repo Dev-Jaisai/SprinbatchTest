@@ -1,0 +1,101 @@
+id,name,city,pincode,loanAmount,loanType
+1,John Doe,New York,10001,50000,Home
+2,Alice Smith,Los Angeles,90001,75000,Personal
+3,Michael Johnson,Chicago,60007,100000,Education
+4,Emily Davis,San Francisco,94102,60000,Home
+5,James Wilson,Boston,02101,80000,Personal
+6,Sarah Johnson,Houston,77001,60000,Home
+7,Michael Brown,Phoenix,85001,90000,Education
+8,Emma Martinez,Philadelphia,19101,55000,Personal
+9,William Jones,San Antonio,78201,70000,Home
+10,Sophia Wilson,San Diego,92101,85000,Personal
+11,Alexander Taylor,Dallas,75201,95000,Education
+12,Olivia Anderson,San Jose,95101,80000,Home
+13,Ethan Lee,Austin,78701,72000,Personal
+14,Isabella Hernandez,Indianapolis,46201,67000,Education
+15,Mason Garcia,Jacksonville,32201,78000,Personal
+16,Andrew Clark,Detroit,48201,63000,Home
+17,Elizabeth Lewis,San Francisco,94102,85000,Personal
+18,James White,Los Angeles,90001,90000,Education
+19,Grace Scott,Chicago,60007,60000,Home
+20,Alexander Hall,New York,10001,70000,Personal
+21,Sophia Perez,Boston,02101,75000,Education
+22,Lucas Young,Philadelphia,19101,82000,Personal
+23,Emily Lopez,Phoenix,85001,70000,Home
+24,Charlotte Hill,San Antonio,78201,95000,Education
+25,Mia Wright,San Diego,92101,55000,Home
+26,Logan King,Dallas,75201,75000,Personal
+27,Avery Hernandez,San Jose,95101,68000,Education
+28,Mason Turner,Austin,78701,72000,Home
+29,Sofia Morris,Indianapolis,46201,60000,Personal
+30,Alexa Rogers,Jacksonville,32201,88000,Education
+31,David Moore,Detroit,48201,76000,Home
+32,Emma Thompson,San Francisco,94102,70000,Personal
+33,Anthony Martinez,Los Angeles,90001,95000,Education
+34,Harper Perez,Chicago,60007,65000,Home
+35,Luke Davis,New York,10001,72000,Personal
+36,Chloe Hall,Boston,02101,81000,Education
+37,Noah Garcia,Philadelphia,19101,94000,Personal
+38,Amelia Rodriguez,Phoenix,85001,73000,Home
+39,Julian Wilson,San Antonio,78201,66000,Education
+40,Ella Miller,San Diego,92101,77000,Home
+41,Ava Scott,Dallas,75201,71000,Personal
+42,Liam Jackson,San Jose,95101,89000,Education
+43,Sophia Baker,Austin,78701,60000,Home
+44,Evelyn Young,Indianapolis,46201,92000,Personal
+45,Jack Green,Jacksonville,32201,68000,Education
+46,Henry King,Detroit,48201,79000,Home
+47,Lily Price,San Francisco,94102,63000,Personal
+48,Hannah Hernandez,Los Angeles,90001,95000,Education
+49,Aaron Garcia,Chicago,60007,82000,Home
+50,Ella Thompson,New York,10001,74000,Personal
+51,Benjamin Martinez,Boston,02101,61000,Education
+52,Victoria Davis,Philadelphia,19101,87000,Personal
+53,Aubrey Wilson,Phoenix,85001,75000,Home
+54,Andrew Garcia,San Antonio,78201,69000,Education
+55,Samuel Clark,San Diego,92101,96000,Home
+56,Brooklyn Perez,Dallas,75201,64000,Personal
+57,Natalie Lewis,San Jose,95101,87000,Education
+58,Dylan Turner,Austin,78701,80000,Home
+59,Savannah Morris,Indianapolis,46201,71000,Personal
+60,Christopher Rogers,Jacksonville,32201,95000,Education
+61,Zoe Moore,Detroit,48201,63000,Home
+62,Ariana Thompson,San Francisco,94102,81000,Personal
+63,Nathan Martinez,Los Angeles,90001,73000,Education
+64,Leah Hall,Chicago,60007,86000,Home
+65,Jacob Scott,New York,10001,72000,Personal
+66,Sarah Perez,Boston,02101,94000,Education
+67,Aidan Young,Philadelphia,19101,76000,Personal
+68,Grace Lopez,Phoenix,85001,68000,Home
+69,Connor Hill,San Antonio,78201,90000,Education
+70,Hannah Wright,San Diego,92101,65000,Home
+71,Daniel King,Dallas,75201,73000,Personal
+72,Landon Hernandez,San Jose,95101,87000,Education
+73,Isabella Turner,Austin,78701,80000,Home
+74,Liam Morris,Indianapolis,46201,72000,Personal
+75,Mia Rogers,Jacksonville,32201,95000,Education
+76,Ethan Moore,Detroit,48201,78000,Home
+77,Sophia Thompson,San Francisco,94102,63000,Personal
+78,Noah Martinez,Los Angeles,90001,98000,Education
+79,Emma Hall,Chicago,60007,83000,Home
+80,Aiden Scott,New York,10001,71000,Personal
+81,Olivia Perez,Boston,02101,92000,Education
+82,Logan Young,Philadelphia,19101,78000,Personal
+83,Abigail Lopez,Phoenix,85001,69000,Home
+84,Matthew Hill,San Antonio,78201,93000,Education
+85,Addison Wright,San Diego,92101,67000,Home
+86,Chloe King,Dallas,75201,88000,Personal
+87,James Hernandez,San Jose,95101,60000,Education
+88,Avery Turner,Austin,78701,74000,Home
+89,Ella Morris,Indianapolis,46201,81000,Personal
+90,Michael Rogers,Jacksonville,32201,94000,Education
+91,Samantha Moore,Detroit,48201,62000,Home
+92,David Thompson,San Francisco,94102,78000,Personal
+93,Sophia Martinez,Los Angeles,90001,96000,Education
+94,Liam Hall,Chicago,60007,83000,Home
+95,Mia Scott,New York,10001,71000,Personal
+96,William Perez,Boston,02101,92000,Education
+97,Emily Young,Philadelphia,19101,77000,Personal
+98,Jack Lopez,Phoenix,85001,69000,Home
+99,Olivia Hill,San Antonio,78201,93000,Education
+100,Aiden Wright,San Diego,92101,67000,Home
